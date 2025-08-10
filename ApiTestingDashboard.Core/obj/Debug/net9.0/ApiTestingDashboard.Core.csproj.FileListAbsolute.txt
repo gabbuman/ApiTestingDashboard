@@ -1,0 +1,11 @@
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\bin\Debug\net9.0\ApiTestingDashboard.Core.deps.json
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\bin\Debug\net9.0\ApiTestingDashboard.Core.dll
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\bin\Debug\net9.0\ApiTestingDashboard.Core.pdb
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.AssemblyInfoInputs.cache
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.AssemblyInfo.cs
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.csproj.CoreCompileInputs.cache
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.dll
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\refint\ApiTestingDashboard.Core.dll
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ApiTestingDashboard.Core.pdb
+C:\Users\niloo\OneDrive\Desktop\Shubh\C_Sharp\ApiTestingDashboard\ApiTestingDashboard.Core\obj\Debug\net9.0\ref\ApiTestingDashboard.Core.dll

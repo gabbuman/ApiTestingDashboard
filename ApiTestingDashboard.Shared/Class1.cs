@@ -1,0 +1,6 @@
+﻿namespace ApiTestingDashboard.Shared;
+
+public class Class1
+{
+
+}

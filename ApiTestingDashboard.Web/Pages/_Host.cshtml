@@ -1,0 +1,9 @@
+@page "/"
+@namespace ApiTestingDashboard.Web.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using ApiTestingDashboard.Web.Components
+@{
+    Layout = "_Layout";
+}
+
+<component type="typeof(App)" render-mode="ServerPrerendered" />
